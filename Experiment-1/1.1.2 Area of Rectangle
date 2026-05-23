@@ -1,0 +1,6 @@
+Length = float(input())
+Width =  float(input())
+
+area = Length * Width
+
+print(f"{area:.2f}")
